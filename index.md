@@ -1,3 +1,3 @@
 Welcome 
 
-* [HW1:] (IE360_HW1-2.html)
+[HW1:] (IE360_HW1-2.html)
